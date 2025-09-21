@@ -2,6 +2,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 <img width="1382" height="682" alt="image" src="https://github.com/user-attachments/assets/448cba1e-eb88-441a-b676-b712e6684184" />
+Hello — I made my first commit! 👋
 
 
 Welcome to the **Hello World Program Repository**! 🎉 This repository is a diverse collection of "Hello World" programs written in various programming languages. Our goal is to showcase the simplest code snippets, assist new learners, and create an inviting space for everyone to contribute. 🚀
